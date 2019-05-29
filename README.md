@@ -17,13 +17,11 @@ The 4 Ps:
 
 #### Data Set Information:
 
-The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
+The data is related with direct marketing campaigns of a Portuguese banking institution. The dataset gives you information about a marketing campaign of a financial institution in which you will have to analyze in order to find ways to look for future strategies in order to improve future marketing campaigns for the bank.
+
+#### Find the best strategies to improve for the next marketing campaign. 
+
+How can the financial institution have a greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies.
 
 
-## The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
-## Determine clusters among the sample population that will most likely open term deposit accounts.
-
-#### What is a Term Deposit?
-
-A Term deposit is a deposit that a bank or a financial institurion offers with a fixed rate (often better than just opening deposit account) in which your money will be returned back at a specific maturity time. For more information with regards to Term Deposits please click on this link from Investopedia: https://www.investopedia.com/terms/t/termdeposit.asp
 
